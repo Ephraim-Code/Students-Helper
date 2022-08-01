@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://localhost/Student_Connector",
+    "jwtSecret": "jdhfgdfygdgdfhdgfdh"
+
+}
